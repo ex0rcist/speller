@@ -14,10 +14,6 @@ module Speller
         e.response
       end
 
-      # 'Приевт'.spelling => {errors: [{code => 1, code_text => 'Ошибка', correct => 'Привет'}]}
-      # 'Приевт'.spellsafe => "Привет"
-      # 'Приевт'.correct? => false  'Привет'.correct? => true
-
     end
   end
 end
