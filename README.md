@@ -10,7 +10,7 @@
 ### Установка
 
 ```ruby
-gem 'speller', git: 'git@github.com:ex0rcist/speller' 
+gem 'speller', github: 'ex0rcist/speller' 
 ```
 
 ### Зачем это нужно
